@@ -38,3 +38,7 @@ address{
 	background-color: #512DA8;
 }
 
+.jumbotron a {
+    text-decoration: none;
+}
+
